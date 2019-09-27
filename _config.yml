@@ -27,7 +27,7 @@ github_username:  BAProductions
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-minimal
+theme: dark
 plugins:
   - jekyll-feed
 
