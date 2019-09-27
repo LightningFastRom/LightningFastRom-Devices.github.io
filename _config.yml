@@ -27,7 +27,7 @@ github_username:  BAProductions
 
 # Build settings
 markdown: kramdown
-theme: dark
+theme: Time machine
 plugins:
   - jekyll-feed
 
